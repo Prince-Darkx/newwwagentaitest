@@ -1,0 +1,10 @@
+{
+  "name": "EduVoice AI - Voice Caller Agent",
+  "description": "Full-stack AI voice caller agent and smart human handoff platform for the education industry featuring speech recognition, real-time Gemini intelligence, RAG knowledge base, student CRM, and live human counselor desk.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
